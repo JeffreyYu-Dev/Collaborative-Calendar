@@ -1,0 +1,4 @@
+.vscode
+*.pdf
+build
+.ds_store
